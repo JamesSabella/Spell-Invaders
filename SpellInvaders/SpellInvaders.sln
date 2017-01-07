@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB07CD87-3168-21A8-BB69-8DC094A68F7C}") = "SpellInvaders", "Assembly-CSharp.csproj", "{D9E0A1A5-3F30-6D99-5017-EAFD8F3D3738}"
+EndProject
+Project("{BB07CD87-3168-21A8-BB69-8DC094A68F7C}") = "SpellInvaders", "Assembly-CSharp-Editor.csproj", "{607241F9-D0CE-FF14-7E2C-C3197FBD0C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E0A1A5-3F30-6D99-5017-EAFD8F3D3738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E0A1A5-3F30-6D99-5017-EAFD8F3D3738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E0A1A5-3F30-6D99-5017-EAFD8F3D3738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E0A1A5-3F30-6D99-5017-EAFD8F3D3738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607241F9-D0CE-FF14-7E2C-C3197FBD0C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607241F9-D0CE-FF14-7E2C-C3197FBD0C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607241F9-D0CE-FF14-7E2C-C3197FBD0C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607241F9-D0CE-FF14-7E2C-C3197FBD0C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
